@@ -420,7 +420,7 @@ public class main {
 
 		double ans;
 
-		File file = new File("output5.txt");
+		File file = new File("input500.txt");
 		FileReader fileReader = new FileReader(file);
 		BufferedReader bufferedReader = new BufferedReader(fileReader);
 		StringBuffer stringBuffer = new StringBuffer();
